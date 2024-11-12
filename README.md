@@ -1,2 +1,2 @@
 # Economics_learning_notes_undergraduate
-本科时的经济学学习笔记
+undergraduate macroeconomic learning notes in Chinese
